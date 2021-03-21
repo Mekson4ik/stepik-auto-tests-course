@@ -1,2 +1,2 @@
-# stepik-auto-tests-course
-работы по курсу
+﻿# stepik-auto-tests-course
+работы по курсу на stepik, которые необходимо будет выполнить по мере обучения.
